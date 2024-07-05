@@ -5,7 +5,7 @@ function db_connect() {
     $dbHost = "127.0.0.1";
     $dbName = "phpdbdemo";
     $dbUser = "postgres";
-    $dbPass = "Neko25nky";
+    $dbPass = "";
     $dbPort = "5432";
     
     //DBへの接続
