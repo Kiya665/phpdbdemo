@@ -1,5 +1,5 @@
 <?php
-require '../pg_pdodb.php';
+require '../../pg_pdodb.php';
 
 $html = "";
 // GET値をチェック
