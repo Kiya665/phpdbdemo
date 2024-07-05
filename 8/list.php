@@ -1,5 +1,5 @@
 <?php
-require '../pg_pdodb.php';
+require '../../pg_pdodb.php';
 
 $conn = db_connect();
 $sql = 'select * from student order by no';

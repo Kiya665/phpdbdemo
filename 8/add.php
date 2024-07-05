@@ -1,5 +1,5 @@
 <?php
-require '../pg_pdodb.php';
+require '../../pg_pdodb.php';
 $html = "";
 // POST値をチェック
 if (isset($_POST['no']) && isset($_POST['name']) && isset($_POST['mail']) && isset($_POST['birthday'])) {
